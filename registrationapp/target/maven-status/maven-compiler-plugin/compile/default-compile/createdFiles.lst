@@ -1,0 +1,4 @@
+com\registrationapp\jc\configuration\DatabaseConfiguration.class
+com\registrationapp\jc\configuration\WebMvcConfig.class
+com\registrationapp\jc\configuration\WebAppInitializer.class
+com\registrationapp\jc\controller\UserController.class
